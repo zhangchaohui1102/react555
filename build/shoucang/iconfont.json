@@ -1,0 +1,37 @@
+{
+  "id": "2149826",
+  "name": "淘宝任务",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14303313",
+      "name": "淘宝收藏",
+      "font_class": "tubiaozhizuomoban-01",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14310941",
+      "name": "淘宝客服-01",
+      "font_class": "taobaokefu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "14310942",
+      "name": "淘宝店铺",
+      "font_class": "taobaodianpu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10204450",
+      "name": "淘宝",
+      "font_class": "taobao-",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2149826",
+  "name": "淘宝任务",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14310942",
+      "name": "淘宝店铺",
+      "font_class": "taobaodianpu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10204450",
+      "name": "淘宝",
+      "font_class": "taobao-",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
